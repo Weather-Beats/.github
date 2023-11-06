@@ -1,7 +1,7 @@
 
 # WeatherBeats
 
-![WeatherBeats Logo](weatherbeats-logo.png)
+<img src="../images/logo-weatherBeats.png" width="400"/>
 
 WeatherBeats is your go-to web application for seamlessly pairing your music with the current weather conditions. Say goodbye to the guesswork and let WeatherBeats create the perfect soundtrack for your day.
 
